@@ -1,0 +1,18 @@
+.custom-nav {
+    padding: 2rem 10rem !important;
+    color: var(--text-white);
+    background-color: var(--bg2);
+    font-family: var(--bs-font-sans-serif);
+}
+
+.nav-link {
+    font-size: 1.3rem !important;
+    font-weight: normal !important;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}

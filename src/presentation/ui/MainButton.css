@@ -1,0 +1,10 @@
+#main-btn {
+    border-radius: 35px;
+    padding: 15px 25px;
+    width: 15rem;
+    height: fit-content;
+    font-size: 1.1rem;
+    font-family: var(--bs-font-sans-serif);
+    color: var(--text-white);
+    font-weight:normal;
+}

@@ -1,0 +1,6 @@
+.card {
+    background-color: var(--bg2);
+    border: 0px;
+    padding: 3rem !important;
+    font-family: var(--bs-font-sans-serif);
+}

@@ -1,0 +1,10 @@
+:root {
+  --bg1: #2A2C39;
+  --bg2: #252734;
+  --text-white: #fff;
+  --text-grey: #85878F;
+}
+
+#app {
+  font-family: serif;
+}
